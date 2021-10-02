@@ -1,0 +1,4 @@
+Here we declared a character  variable,and then we try to give it a input which was an integer eg. 123 , and when we print the output only 1
+printed because variable is of char type  and we tried to store integer in it,char type has its own size limitations, due to which it only stored 1,
+to correct this we can take a variable of string type and then we can use function getline,which will store our input  as a string whether we give input integer
+or character.
