@@ -1,0 +1,2 @@
+here in header file we used #include<stdio.h> , here we have used .h in the last but in modern c++ there is no .h extension in header files , so 
+preprocessor will fail and will throw fatal error.
