@@ -12,7 +12,7 @@ class A{
     public:
     void display(){
      x=10;
-     y=20
+     y=20;
       cout<<"x=>"<<x<<" y=>"<<y;
     }
   };
