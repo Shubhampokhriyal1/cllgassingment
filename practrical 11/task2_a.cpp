@@ -6,7 +6,7 @@ class A{
  protected:
   int y;
  private:
-  int x;
+  int z;
 };
   class B:public A{
     public:
