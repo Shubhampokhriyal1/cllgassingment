@@ -1,4 +1,9 @@
- protected:
+#include<iostream>
+using namespace std;
+class A{
+ public:
+  int x; 
+protected:
   int y;
  private:
   int z;
